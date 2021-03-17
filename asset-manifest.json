@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theTECmachine/weather-app.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/theTECmachine/weather-app.git/static/js/main.598e82ec.chunk.js",
+    "main.js.map": "/theTECmachine/weather-app.git/static/js/main.598e82ec.chunk.js.map",
+    "runtime-main.js": "/theTECmachine/weather-app.git/static/js/runtime-main.e20441fa.js",
+    "runtime-main.js.map": "/theTECmachine/weather-app.git/static/js/runtime-main.e20441fa.js.map",
+    "static/js/2.be40a795.chunk.js": "/theTECmachine/weather-app.git/static/js/2.be40a795.chunk.js",
+    "static/js/2.be40a795.chunk.js.map": "/theTECmachine/weather-app.git/static/js/2.be40a795.chunk.js.map",
+    "static/js/3.f8210a11.chunk.js": "/theTECmachine/weather-app.git/static/js/3.f8210a11.chunk.js",
+    "static/js/3.f8210a11.chunk.js.map": "/theTECmachine/weather-app.git/static/js/3.f8210a11.chunk.js.map",
+    "index.html": "/theTECmachine/weather-app.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/theTECmachine/weather-app.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.be40a795.chunk.js.LICENSE.txt": "/theTECmachine/weather-app.git/static/js/2.be40a795.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/theTECmachine/weather-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20441fa.js",
+    "static/js/2.be40a795.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.598e82ec.chunk.js"
+  ]
+}
